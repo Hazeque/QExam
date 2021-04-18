@@ -1,0 +1,10 @@
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\bin\Debug\Exam.exe.config
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\bin\Debug\Exam.exe
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\bin\Debug\Exam.pdb
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\obj\Debug\Exam.csprojAssemblyReference.cache
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\obj\Debug\Exam.MainForm.resources
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\obj\Debug\Exam.Properties.Resources.resources
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\obj\Debug\Exam.csproj.GenerateResource.cache
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\obj\Debug\Exam.csproj.CoreCompileInputs.cache
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\obj\Debug\Exam.exe
+C:\Users\HazePC\Desktop\QExam\src\Exam\Exam\obj\Debug\Exam.pdb
